@@ -1,3 +1,5 @@
 Nombre: David Nieto 
-Edad: 20
 Hobby: Jugar Indor
+Pelicula: Pixeles 
+Comida favorita: Pollo asado 
+
