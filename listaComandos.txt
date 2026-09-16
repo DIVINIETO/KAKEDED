@@ -1,1 +1,1 @@
-git clone: <escribir para qué sirve el comando>
+git clone: descarga (clona) una copia completa de un repositorio remoto, incluyendo todo su historial de commits, hacia tu máquina local.
