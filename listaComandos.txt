@@ -4,3 +4,8 @@ hacia tu máquina local.
 
 git commit: guarda un "snapshot" de los cambios que están en el área de preparación (staging area), 
 creando un punto en el historial del repositorio con un mensaje descriptivo.
+
+git push: envía (sube) los commits guardados en tu repositorio local hacia el repositorio remoto.
+git status: muestra el estado actual del repositorio, indicando qué archivos están modificados, 
+en staging o sin seguimiento (untracked).
+git add: agrega archivos al área de preparación (staging area) para que sean incluidos en el siguiente commit.
