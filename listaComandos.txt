@@ -1,1 +1,6 @@
-git clone: descarga (clona) una copia completa de un repositorio remoto, incluyendo todo su historial de commits, hacia tu máquina local.
+git clone: descarga (clona) una copia completa de un repositorio remoto, 
+incluyendo todo su historial de commits, 
+hacia tu máquina local.
+
+git commit: guarda un "snapshot" de los cambios que están en el área de preparación (staging area), 
+creando un punto en el historial del repositorio con un mensaje descriptivo.
